@@ -1,7 +1,7 @@
 # Contributing
 
-You don't need to be a developer or a technical writer to make a significant
-impact on the TensorFlow documentation—just a [GitHub account](https://github.com/).
+You don't need to be a developer or technical writer to significantly
+impact the TensorFlow documentation—just a [GitHub account](https://github.com/).
 This guide shows how to make contributions to [tensorflow.org](https://www.tensorflow.org).
 
 See the
@@ -25,18 +25,18 @@ and the
 We love patches! To publish your changes, you must sign either the individual or
 corporate Contributor License Agreement (CLA):
 
-* If you are an individual writing original documentation or source code and
+* If you are an individual who wrote original documentation or source code and
   you're sure you own the intellectual property, sign an
   [individual CLA](http://code.google.com/legal/individual-cla-v1.0.html).
 * If you work for a company that wants to allow you to contribute your work, sign
   a [corporate CLA](http://code.google.com/legal/corporate-cla-v1.0.html).
 
 We can accept your pull requests after you sign the CLA. We can only receive
-original documentation and source code from you and other people that have
+original documentation and source code from you and others who have
 signed the CLA.
 
 
-# About our docs
+# About our documents
 
 The TensorFlow documentation is written in [Markdown](https://commonmark.org/help/)
 and [Jupyter/Colab notebooks](https://colab.research.google.com/notebooks/welcome.ipynb).
@@ -46,9 +46,9 @@ The root of [tensorflow.org/](https://www.tensorflow.org/) is found in the
 
 Not all technical content on tensorflow.org is located in `site/en`. Some
 projects have their repositories under
-[github.com/tensorflow](https://github.com/tensorflow) and they contain
+[github.com/tensorflow](https://github.com/tensorflow), and they contain
 project-specific documentation. These projects are navigable from the
-tensorflow/docs `site/en` directory and include a redirect link to where the
+tensorflow/docs `site/en` directory and include a redirect link where the
 docs can be updated.
 
 The API reference is generated from the source code located in the core
