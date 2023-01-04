@@ -22,8 +22,8 @@ And join the TensorFlow documentation contributors on the
 
 [Community translations](https://www.tensorflow.org/community/contribute/docs#community_translations)
 are located in the
-[tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) repo. These docs
-are contributed, reviewed, and maintained by the community as *best-effort*. To
+[tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) repo. These documents
+are contributed, reviewed, and maintained by the community as a *best-effort*. To
 participate as a translator or reviewer, see the `site/<lang>/README.md`, join
 the language mailing list, and submit a pull request.
 
